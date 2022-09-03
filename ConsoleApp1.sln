@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RandomPasswordGenerator", "ConsoleApp1\RandomPasswordGenerator.csproj", "{A8C42D92-293B-4F15-829C-13E1904B46F7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A8C42D92-293B-4F15-829C-13E1904B46F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8C42D92-293B-4F15-829C-13E1904B46F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8C42D92-293B-4F15-829C-13E1904B46F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8C42D92-293B-4F15-829C-13E1904B46F7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7E62F66E-3692-4680-89A3-8D15C2097847}
+	EndGlobalSection
+EndGlobal
